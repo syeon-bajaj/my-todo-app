@@ -7,6 +7,14 @@ const credentials = [
         username: "hgt",
         password: "CompScience",
     },
+    {
+        username: "Kabir",
+        password: "Co-founder@1",
+    },
+    {
+        username: "Syeon",
+        password: "Co-founder@0",
+    }
   
 ]
 
