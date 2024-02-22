@@ -14,6 +14,10 @@ const credentials = [
     {
         username: "Syeon",
         password: "Co-founder@0",
+    },
+    {
+        username: "Poochi",
+        password: "beech",
     }
     
 ]
